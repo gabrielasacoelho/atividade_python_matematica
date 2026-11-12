@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import openpyxl
+import matplotlib as plt
 
 
 # Configuração da página
